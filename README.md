@@ -1,16 +1,10 @@
-> [!CAUTION]
-> **Do not use this theme yet.** This is an unofficial, community-made theme.
-> It is **not** affiliated with, endorsed by, or approved by Symfony SAS.
-> Permission to use the Symfony logo has been requested but **not granted yet**.
-> Please do not install, fork, or redistribute it until this notice is removed.
-
 # Symfony Night
 
 A dark [Omarchy](https://omarchy.org/) theme based on the dark mode of
 [symfony.com](https://symfony.com): neutral grays, a soft blue link accent,
 and GitHub-dark code highlighting colors.
 
-> Unofficial community theme. Not affiliated with or endorsed by Symfony SAS.
+> Community theme. The Symfony logo is used with the permission of Symfony SAS.
 > "Symfony" and the Symfony logo are trademarks of Symfony SAS. The logo is
 > used as published at <https://symfony.com/logo>, unmodified except for
 > removing its background box, and is not covered by this theme's MIT license.
