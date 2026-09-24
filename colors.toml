@@ -1,0 +1,33 @@
+# Symfony Night — palette taken from the dark theme of symfony.com
+# (Tailwind neutral grays, blue-300 link accent, GitHub-dark code highlighting)
+mode = "dark"
+
+accent = "#93c5fd"
+selection = "#404040"
+muted = "#525252"
+
+background = "#171717"
+dark_background = "#0a0a0a"
+darker_background = "#000000"
+lighter_background = "#262626"
+
+foreground = "#e5e5e5"
+dark_foreground = "#a3a3a3"
+light_foreground = "#f5f5f5"
+bright_foreground = "#fafafa"
+
+red = "#ff7b72"
+yellow = "#fbbf24"
+orange = "#ffa657"
+green = "#7ee787"
+cyan = "#a5d6ff"
+blue = "#79c0ff"
+magenta = "#d2a8ff"
+brown = "#92400e"
+
+bright_red = "#fb7185"
+bright_yellow = "#fde68a"
+bright_green = "#2dd4bf"
+bright_cyan = "#67e8f9"
+bright_blue = "#60a5fa"
+bright_magenta = "#d946ef"
