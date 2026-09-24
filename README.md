@@ -1,3 +1,9 @@
+> [!CAUTION]
+> **Do not use this theme yet.** This is an unofficial, community-made theme.
+> It is **not** affiliated with, endorsed by, or approved by Symfony SAS.
+> Permission to use the Symfony logo has been requested but **not granted yet**.
+> Please do not install, fork, or redistribute it until this notice is removed.
+
 # Symfony Night
 
 A dark [Omarchy](https://omarchy.org/) theme based on the dark mode of
@@ -10,7 +16,7 @@ and GitHub-dark code highlighting colors.
 > removing its background box, and is not covered by this theme's MIT license.
 > See the [Symfony Trademark & Logo Policy](https://symfony.com/trademark).
 
-![Symfony Night preview](preview.png)
+![Neovim and btop with Symfony Night](screenshots/neovim-btop.jpg)
 
 ## Install
 
@@ -20,6 +26,18 @@ omarchy theme install https://github.com/cvtmal/omarchy-symfony-night-theme
 
 Or choose *Install > Style > Theme* in the Omarchy menu (`Super + Space`) and paste the URL.
 Press `Super + Ctrl + Space` to cycle backgrounds.
+
+## Screenshots
+
+The screenshot at the top shows Neovim with a Symfony controller open, next to btop.
+
+**Desktop** with the `3-logo-dot-grid.jpg` wallpaper.
+
+![Desktop](screenshots/desktop.jpg)
+
+**All six wallpapers.** The top row has the logo; the bottom row doesn't.
+
+![Wallpapers](screenshots/wallpapers.jpg)
 
 ## Palette
 
